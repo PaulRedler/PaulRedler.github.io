@@ -17,7 +17,7 @@ BTS SIO · Option SLAM · Lycée Fulbert, Chartres
 
 Étudiant en BTS SIO option SLAM en 2e année au lycée Fulbert. Passionné par le développement full-stack, je conçois des applications web, mobiles et desktop en m'appuyant sur des technologies modernes côté frontend comme backend.
 
-> 📍 Chartres, France &nbsp;·&nbsp; 🎓 BTS SIO SLAM 2024–2026 &nbsp;·&nbsp; 💼 Disponible pour un stage / alternance
+> 📍 Chartres, France &nbsp;·&nbsp; 🎓 BTS SIO SLAM 2024–2026 &nbsp;·&nbsp; 
 
 ---
 
