@@ -72,7 +72,7 @@ BTS SIO · Option SLAM · Lycée Fulbert, Chartres
 
 <div align="center">
 
-Chartres, France &nbsp;·&nbsp; Disponible pour un **stage / alternance**
+Chartres, France &nbsp;·&nbsp;
 
 [![Me contacter](https://img.shields.io/badge/✉️_Me_contacter-333333?style=for-the-badge)](mailto:paulredler4@gmail.com)
 
